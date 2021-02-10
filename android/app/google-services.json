@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439142325575",
+    "project_id": "yana-gaman-49812",
+    "storage_bucket": "yana-gaman-49812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439142325575:android:1f16649dd516feb6a7c062",
+        "android_client_info": {
+          "package_name": "com.example.yana_gaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439142325575-qvsb3nrdggbof7ii9mh51enirm10e49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnACRfy06psTmPokdeUiUyu1voTklA6DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439142325575-qvsb3nrdggbof7ii9mh51enirm10e49n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
